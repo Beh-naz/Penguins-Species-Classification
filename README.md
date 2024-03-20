@@ -3,12 +3,12 @@ This repository contains a Python script for classifying penguin species using t
 
 ## Dataset
 
-The dataset used in this project is the penguins dataset available in the Seaborn library. It includes measurements for penguins from three different species, along with additional information such as the island of residence and sex. The features used for classification are bill length, bill depth, flipper length, body mass, sex, and island.
+The dataset used in this project is the "penguins" dataset available in the Seaborn library. It includes measurements for penguins from three different species, along with additional information such as the island of residence and sex. The features used for classification are bill length, bill depth, flipper length, body mass, sex, and island.
 
 ## How It Works
 
 # Data Loading and Preprocessing: 
-The script starts by loading the penguins dataset from Seaborn and performing initial preprocessing, such as dropping missing values and encoding categorical variables.
+The script starts by loading the "penguins" dataset from Seaborn and performing initial preprocessing, such as dropping missing values and encoding categorical variables.
 
 # Exploratory Data Analysis (EDA): 
 It then visualizes the dataset to understand the distribution of different features across penguin species.
