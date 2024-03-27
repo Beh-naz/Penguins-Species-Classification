@@ -11,7 +11,7 @@ The dataset used in this project is the "penguins" dataset available in the Seab
 The script starts by loading the "penguins" dataset from Seaborn and performing initial preprocessing, such as dropping missing values and encoding categorical variables.
 
 ### Exploratory Data Analysis (EDA): 
-It then visualizes the dataset to understand the distribution of different features across penguin species.
+It then visualizes the dataset to understand the distribution of different features across penguin species. Find the visualizations [here](https://github.com/Beh-naz/Penguins-Species-Classification/tree/main/Visualizations).
 
 ### Feature Selection and Scaling: 
 Different sets of features are selected and normalized using MinMaxScaler to ensure that distance calculations during the KNN algorithm are not biased by the scale of the features.
